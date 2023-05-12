@@ -4,29 +4,29 @@
 
 ## ⚡ Technologies
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-FFAF9F?style=for-the-badge&logo=html5&logoColor=black)
+![CSS3](https://img.shields.io/badge/-CSS3-B6E5FF?style=for-the-badge&logo=css3&logoColor=black)
+![JavaScript](https://img.shields.io/badge/-JavaScript-FFF4B3?style=for-the-badge&logo=javascript&logoColor=black)
 
-![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
-![Next js](https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=next.js)
+![React](https://img.shields.io/badge/-React-B3F1FF?style=for-the-badge&logo=react&logoColor=black)
+![Next js](https://img.shields.io/badge/-Next.js-E5E5E5?style=for-the-badge&logo=next.js&logoColor=black)
 
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logo=tailwindcss)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)
-![SASS](https://img.shields.io/badge/-sass-black?style=for-the-badge&logo=sass)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-A8E8EF?style=for-the-badge&logo=tailwindcss&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-D1B3FF?style=for-the-badge&logo=bootstrap&logoColor=black)
+![SASS](https://img.shields.io/badge/-sass-FFCCE8?style=for-the-badge&logo=sass&logoColor=black)
 
-![Framer Motion](https://img.shields.io/badge/-Framer_Motion-black?style=for-the-badge&logo=framer)
-![GSAP](https://img.shields.io/badge/-gsap-black?style=for-the-badge)
-![Anime js](https://img.shields.io/badge/-Anime.js-black?style=for-the-badge)
+![Framer Motion](https://img.shields.io/badge/-Framer_Motion-FFB3F6?style=for-the-badge&logo=framer&logoColor=black)
+![GSAP](https://img.shields.io/badge/-gsap-E7FF92?style=for-the-badge)
+![Anime js](https://img.shields.io/badge/-Anime.js-FFB3B3?style=for-the-badge)
 
-![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
+![Git](https://img.shields.io/badge/-Git-FFBCB3?style=for-the-badge&logo=git&logoColor=black)
+![GitHub](https://img.shields.io/badge/-GitHub-D8D8D8?style=for-the-badge&logo=github&logoColor=black)
 
-![Figma](https://img.shields.io/badge/-Figma-black?style=for-the-badge&logo=figma)
-![Adobe Illustrator](https://img.shields.io/badge/-Adobe_Illustrator-black?style=for-the-badge&logo=adobeillustrator)
-![Adobe Premiere Pro](https://img.shields.io/badge/-Adobe_Premiere_Pro-black?style=for-the-badge&logo=adobepremierepro)
-![Adobe Photoshop](https://img.shields.io/badge/-Adobe_Photoshop-black?style=for-the-badge&logo=adobephotoshop)
-![Adobe InDesign](https://img.shields.io/badge/-Adobe_InDesign-black?style=for-the-badge&logo=adobeindesign)
+![Figma](https://img.shields.io/badge/-Figma-FFC1B3?style=for-the-badge&logo=figma&logoColor=black)
+![Adobe Illustrator](https://img.shields.io/badge/-Adobe_Illustrator-FFDEB3?style=for-the-badge&logo=adobeillustrator&logoColor=black)
+![Adobe Premiere Pro](https://img.shields.io/badge/-Adobe_Premiere_Pro-B3B3FF?style=for-the-badge&logo=adobepremierepro&logoColor=black)
+![Adobe Photoshop](https://img.shields.io/badge/-Adobe_Photoshop-B3E2FF?style=for-the-badge&logo=adobephotoshop&logoColor=black)
+![Adobe InDesign](https://img.shields.io/badge/-Adobe_InDesign-FFB3C9?style=for-the-badge&logo=adobeindesign&logoColor=black)
 
 <!--
 **natalie-maks/natalie-maks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
