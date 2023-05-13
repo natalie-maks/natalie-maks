@@ -2,7 +2,15 @@
   <img src="header.svg" style="width: 100%;" alt="Click to see the source">
 </div>
 
-## ⚡ Technologies
+## 🖋️	 About me
+
+I like seeing how good designs become websites with the help of code.
+
+I like animations and small user interections, all the little things that show we are not in the world of websites of 00' anymore.
+
+I like when code works from first try.
+
+## 💻 Technologies
 
 ![HTML5](https://img.shields.io/badge/-HTML5-FFAF9F?style=for-the-badge&logo=html5&logoColor=black)
 ![CSS3](https://img.shields.io/badge/-CSS3-B6E5FF?style=for-the-badge&logo=css3&logoColor=black)
@@ -28,17 +36,15 @@
 ![Adobe Photoshop](https://img.shields.io/badge/-Adobe_Photoshop-B3E2FF?style=for-the-badge&logo=adobephotoshop&logoColor=black)
 ![Adobe InDesign](https://img.shields.io/badge/-Adobe_InDesign-FFB3C9?style=for-the-badge&logo=adobeindesign&logoColor=black)
 
-<!--
-**natalie-maks/natalie-maks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🙂 Fun facts
 
-Here are some ideas to get you started:
+🌐 I have a theory that 80-90% of people who use IE are actually developers who test crossbrowserness.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤷‍♀️	Still wondering why people put "pixel-perfect" and "responsive design" in one sentence. (If you think the same, please, let me know. I want to know I'm not the only one)
+
+📂 I collect designs and animation that I like, save everything I might use for inspiration.
+
+☕ I almost always drink my coffee cold.
+
+🎨 I drew hamster on my portfolio.
+
