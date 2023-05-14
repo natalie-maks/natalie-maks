@@ -40,11 +40,10 @@ I like when code works from first try.
 
 🌐 I have a theory that 80-90% of people who use IE are actually developers who test crossbrowserness.
 
-🤷‍♀️	Still wonder why people put "pixel-perfect" and "responsive design" in one sentence. (If you think the same, please, let me know. I want to know I'm not alone)
+🤷‍♀️	I still wonder why people put "pixel-perfect" and "responsive design" in one sentence. (If you think the same, please, let me know. I want to know I'm not alone)
 
 📂 I collect designs and animations that I like, save everything I might use for inspiration.
 
 ☕ I almost always drink my coffee cold.
 
 🎨 I drew hamster on my portfolio.
-
