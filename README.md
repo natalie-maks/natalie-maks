@@ -6,7 +6,7 @@
 
 I like seeing how good designs become websites with the help of code.
 
-I like animations and small user interections, all the little things that show we are not in the world of 00' websites anymore.
+I like animations and small user interactions, all the little things that show we are not in the world of 00' websites anymore.
 
 I like when code works from first try.
 
